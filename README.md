@@ -1,6 +1,6 @@
 ## Bienvenido a Auto Handshake
 
-Este es un programa creado para protejer la integridad de los usuarios para que no caigan en ataques de pshishing. Clona el repositorio para utilizar la herramienta o descarga el ejecutable desde las Realeaces 
+Este es un programa creado para protejer la integridad de los usuarios para que no caigan en ataques de pshishing. Clona el repositorio para utilizar la herramienta o descarga el ejecutable desde las [Release](https://github.com/Alcatraz2033/phishing-detector/releases/tag/python) 
 
 ### Instalación
 
@@ -16,7 +16,7 @@ python3 killphish.py
 Ingresa el link directo en el programa y clica en "Iniciar" si el enlace es seguro, el programa te dira "NO PHISHING"
 
 <p align="left">
-	<img src="https://i.imgur.com/SgRVebj.png" width="40%" height="40%" align="">
+	<img src="https://i.imgur.com/SgRVebj.png" width="100%" height="100%" align="">
 </p>
 
 ## Inseguro
@@ -24,7 +24,7 @@ Ingresa el link directo en el programa y clica en "Iniciar" si el enlace es segu
 Ingresa el link directo en el programa y clica en "Iniciar" si el enlace no es seguro, el programa te dira "PELIGRO PHISHING"
 
 <p align="left">
-	<img src="https://i.imgur.com/vyygTKx.png" width="40%" height="40%" align="">
+	<img src="https://i.imgur.com/vyygTKx.png" width="100%" height="100%" align="">
 </p>
 
 ## Exeso de Peticiones
@@ -32,5 +32,5 @@ Ingresa el link directo en el programa y clica en "Iniciar" si el enlace no es s
 El host que tramita las peticiones tiene un número máximo de intentos. Si sobrepasas estos intentos no podras utilizar el programa durante aproximadamente 10 minutos.
 
 <p align="left">
-	<img src="https://i.imgur.com/GfjYVQs.png" width="40%" height="40%" align="">
+	<img src="https://i.imgur.com/GfjYVQs.png" width="100%" height="100%" align="">
 </p>
