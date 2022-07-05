@@ -4,7 +4,7 @@ Este es un programa creado para protejer la integridad de los usuarios para que 
 
 ### Instalación
 
-Clonar el repositorio y cambiar los permisos
+Clonar el repositorio
 
 ```markdown
 git clone https://github.com/Alcatraz2033/phishing-detector.git
