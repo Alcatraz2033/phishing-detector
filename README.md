@@ -1,4 +1,4 @@
-## Bienvenido a Auto Handshake
+## Bienvenido KILLPHISH
 
 Este es un programa creado para protejer la integridad de los usuarios para que no caigan en ataques de pshishing. Clona el repositorio para utilizar la herramienta o descarga el ejecutable desde las [Release](https://github.com/Alcatraz2033/phishing-detector/releases/tag/python) 
 
